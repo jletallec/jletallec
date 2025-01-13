@@ -14,7 +14,7 @@ Je suis actuellement étudiant en **licence Information Communication** à l'Uni
 
 ## 📫 Me contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/jletallec/)
-- ✉️ E-mail : [tonemail@example.com](mailto:letallec.josselin@icloud.com)
+- ✉️ E-mail : [letallec.josselin@icloud.com](mailto:letallec.josselin@icloud.com)
 - 🌐 [Portfolio](https://jletallec.github.io)
 
 ---
