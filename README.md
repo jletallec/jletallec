@@ -16,6 +16,7 @@ Je suis actuellement étudiant en **licence Information Communication** à l'Uni
 - 💼 [LinkedIn](https://www.linkedin.com/in/jletallec/)
 - ✉️ E-mail : [letallec.josselin@icloud.com](mailto:letallec.josselin@icloud.com)
 - 🌐 [Portfolio](https://jletallec.github.io)
+- [Itch.io](https://betawhat.itch.io/)
 
 ---
 
