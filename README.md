@@ -1,27 +1,32 @@
-# 👋 Bienvenue sur mon profil GitHub !
+<div align="center" style="background-color: black; padding: 20px; border-radius: 15px;">
 
-## 🎓 À propos de moi
-Je suis actuellement étudiant en **licence Information Communication** à l'Université Catholique de l'Ouest (UCO) de Vannes. Je suis un passionné de la programmation et des nouvelles technologies, j'ai pu approfondir mes connaissances durant ma spécialité **NSI (Numérique et Sciences Informatiques)** au lycée Frédéric Bazille - Agropolis à Montpellier, où j'ai obtenu un **16/20 au BAC NSI**.
+![Moon GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)
 
-## 🛠️ Compétences techniques
-- **Langages de programmation** :
-  - Python (scripts, automations, Tkinter)
-  - HTML / CSS (sites web statiques et interactifs)
-- **Outils et frameworks** :
-  - Godot Engine (développement 3D)
-  - Selenium (automatisation de tâches en Python)
-- **Autres** : Concepts de programmation orientée objet, algorithmes, bases de données simples.
+# 🌙 Bienvenue sur mon profil GitHub !
 
-## 📫 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/jletallec/)
-- ✉️ E-mail : [letallec.josselin@icloud.com](mailto:letallec.josselin@icloud.com)
-- 🌐 [Portfolio](https://jletallec.github.io)
-- [Itch.io](https://betawhat.itch.io/)
+✨ Passionné(e) de code et curieux(se) par nature, je suis toujours à la recherche de nouveaux projets captivants et de défis à relever. ✨
 
 ---
 
-## 📊 Statistiques GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jletallec&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jletallec&layout=compact&theme=radical)
+## Ce que je fais :
+
+- 🔭 **Développement Web et Logiciel**
+- 🌱 **Apprentissage continu** (actuellement : `Next.js`, `Node.js`)
+- 🚀 **Contributions Open Source**
 
 ---
+
+🛠️ **Langages et outils :**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+📫 **Contactez-moi :**
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+
+</div>
