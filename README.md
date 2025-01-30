@@ -7,7 +7,6 @@
 - 🏆 Admis au Baccalauréat avec 16/20 en NSI (2024)
 - 🐍 Maîtrise des bases de la programmation en Python
 - 🌍 Passionné par le croisement entre communication numérique et technologies
-- 😄 Pronoms: He / Him
 
 *Dernière mise à jour :* `2024-05-20`
 
@@ -31,12 +30,13 @@ En apprentissage:
   - Communication digitale
 ```
 
-## 🔨 Projets en cours...
+## 🔨 Projets en cours
 ```yaml
 - OpenLab, un jeu développé en Python avec Pygame.
 ```
 
 ## 📫 Me Contacter
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jletallec)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:letallec.josselin@icloud.com)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/jltallec)
+[<img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"/>](mailto:letallec.josselin@icloud.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jletallec)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/jltallec)
+[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/betawhat/)
