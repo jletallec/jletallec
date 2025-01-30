@@ -1,32 +1,42 @@
-<div align="center" style="background-color: black; padding: 20px; border-radius: 15px;">
+## 🌍 Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+![](https://komarev.com/ghpvc/?username=Jletallec&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
+<img src="https://github.com/Jletallec/Jletallec/blob/main/moon.gif?raw=true" alt="side Image" align="right" width="200" height="auto" />
+  
+- 🎓 Étudiant en 1ère année de Licence Information-Communication à l'UCO de Vannes
+- 🏆 Admis au Baccalauréat avec 16/20 en NSI (2024)
+- 🐍 Maîtrise des bases de la programmation en Python
+- 🌍 Passionné par le croisement entre communication numérique et technologies
+- 😄 Pronoms: He / Him
 
-![Moon GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)
+*Dernière mise à jour :* `2024-05-20`
 
-# 🌙 Bienvenue sur mon profil GitHub !
+## 💻 Compétences Techniques
+```yaml
+Langages: 
+  - Python (niveau intermédiaire)
+  - HTML/CSS (notions)
+  - SQL (notions)
 
-✨ Passionné(e) de code et curieux(se) par nature, je suis toujours à la recherche de nouveaux projets captivants et de défis à relever. ✨
+Outils:
+  - Suite Adobe (Photoshop)
+  - Canva
+  - Google Docs
+  - Microsoft Office
+  - Git & GitHub
 
----
+En apprentissage:
+  - Développement web (JavaScript, Flask)
+  - Analyse de données
+  - Communication digitale
+```
 
-## Ce que je fais :
+## 🔨 Projets en cours...
+```yaml
+- OpenLab, un jeu développé en Python avec Pygame.
+```
 
-- 🔭 **Développement Web et Logiciel**
-- 🌱 **Apprentissage continu** (actuellement : `Next.js`, `Node.js`)
-- 🚀 **Contributions Open Source**
-
----
-
-🛠️ **Langages et outils :**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-📫 **Contactez-moi :**
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-
-</div>
+## 📫 Me Contacter
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jletallec)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:letallec.josselin@icloud.com)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/jltallec)
