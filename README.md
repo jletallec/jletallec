@@ -8,7 +8,7 @@
 - 🐍 Maîtrise des bases de la programmation en Python
 - 🌍 Passionné par le croisement entre communication numérique et technologies
 
-*Dernière mise à jour :* `2024-05-20`
+*Dernière mise à jour :* `2025-02-08`
 
 ## 💻 Compétences Techniques
 ```yaml
@@ -28,11 +28,6 @@ En apprentissage:
   - Développement web (JavaScript, Flask)
   - Analyse de données
   - Communication digitale
-```
-
-## 🔨 Projets en cours
-```yaml
-- OpenLab, un jeu développé en Python avec Pygame.
 ```
 
 ## 📫 Me Contacter
